@@ -1,0 +1,49 @@
+Order ID,Employee ID,Customer ID,Order Date,Shipped Date,Shipper ID,Ship Name,Ship Address,Ship City,Ship State/Province,Ship ZIP/Postal Code,Ship Country/Region,Shipping Fee,Taxes,Payment Type,Paid Date,Notes,Tax Rate,Tax Status,Status ID
+30,9,27,38732,38739,2,Karen Toh,789 27th Street,Las Vegas,NV,99999,USA,200,0,Check,38732,,0,,3
+31,3,4,38737,38739,1,Christina Lee,123 4th Street,New York,NY,99999,USA,5,0,Credit Card,38737,,0,,3
+32,4,12,38739,38739,2,John Edwards,123 12th Street,Las Vegas,NV,99999,USA,5,0,Credit Card,38739,,0,,3
+33,6,8,38747,38748,3,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,50,0,Credit Card,38747,,0,,3
+34,9,4,38754,38755,3,Christina Lee,123 4th Street,New York,NY,99999,USA,4,0,Check,38754,,0,,3
+35,3,29,38758,38760,2,Soo Jung Lee,789 29th Street,Denver,CO,99999,USA,7,0,Check,38758,,0,,3
+36,4,3,38771,38773,2,Thomas Axen,123 3rd Street,Los Angelas,CA,99999,USA,7,0,Cash,38771,,0,,3
+37,8,6,38782,38785,2,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,12,0,Credit Card,38782,,0,,3
+38,9,28,38786,38787,3,Amritansh Raghav,789 28th Street,Memphis,TN,99999,USA,10,0,Check,38786,,0,,3
+39,3,8,38798,38800,3,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,5,0,Check,38798,,0,,3
+40,4,10,38800,38800,2,Roland Wacker,123 10th Street,Chicago,IL,99999,USA,9,0,Credit Card,38800,,0,,3
+41,1,7,38800,,,Ming-Yang Xie,123 7th Street,Boise,ID,99999,USA,0,0,,,,0,,0
+42,1,10,38800,38814,1,Roland Wacker,123 10th Street,Chicago,IL,99999,USA,0,0,,,,0,,2
+43,1,11,38800,,3,Peter Krschne,123 11th Street,Miami,FL,99999,USA,0,0,,,,0,,0
+44,1,1,38800,,,Anna Bedecs,123 1st Street,Seattle,WA,99999,USA,0,0,,,,0,,0
+45,1,28,38814,38814,3,Amritansh Raghav,789 28th Street,Memphis,TN,99999,USA,40,0,Credit Card,38814,,0,,3
+46,7,9,38812,38812,1,Sven Mortensen,123 9th Street,Salt Lake City,UT,99999,USA,100,0,Check,38812,,0,,3
+47,6,6,38815,38815,2,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,300,0,Credit Card,38815,,0,,3
+48,4,8,38812,38812,2,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,50,0,Check,38812,,0,,3
+50,9,25,38812,38812,1,John Rodman,789 25th Street,Chicago,IL,99999,USA,5,0,Cash,38812,,0,,3
+51,9,26,38812,38812,3,Run Liu,789 26th Street,Miami,FL,99999,USA,60,0,Credit Card,38812,,0,,3
+55,1,29,38812,38812,2,Soo Jung Lee,789 29th Street,Denver,CO,99999,USA,200,0,Check,38812,,0,,3
+56,2,6,38810,38810,3,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,0,0,Check,38810,,0,,3
+57,9,27,38829,38829,2,Karen Toh,789 27th Street,Las Vegas,NV,99999,USA,200,0,Check,38829,,0,,0
+58,3,4,38829,38829,1,Christina Lee,123 4th Street,New York,NY,99999,USA,5,0,Credit Card,38829,,0,,3
+59,4,12,38829,38829,2,John Edwards,123 12th Street,Las Vegas,NV,99999,USA,5,0,Credit Card,38829,,0,,0
+60,6,8,38837,38837,3,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,50,0,Credit Card,38837,,0,,3
+61,9,4,38814,38814,3,Christina Lee,123 4th Street,New York,NY,99999,USA,4,0,Check,38814,,0,,0
+62,3,29,38819,38819,2,Soo Jung Lee,789 29th Street,Denver,CO,99999,USA,7,0,Check,38819,,0,,0
+63,4,3,38832,38832,2,Thomas Axen,123 3rd Street,Los Angelas,CA,99999,USA,7,0,Cash,38832,,0,,3
+64,8,6,38846,38846,2,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,12,0,Credit Card,38846,,0,,0
+65,9,28,38848,38848,3,Amritansh Raghav,789 28th Street,Memphis,TN,99999,USA,10,0,Check,38848,,0,,0
+66,3,8,38861,38861,3,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,5,0,Check,38861,,0,,0
+67,4,10,38861,38861,2,Roland Wacker,123 10th Street,Chicago,IL,99999,USA,9,0,Credit Card,38861,,0,,3
+68,1,7,38861,,,Ming-Yang Xie,123 7th Street,Boise,ID,99999,USA,0,0,,,,0,,0
+69,1,10,38861,,1,Roland Wacker,123 10th Street,Chicago,IL,99999,USA,0,0,,,,0,,0
+70,1,11,38861,,3,Peter Krschne,123 11th Street,Miami,FL,99999,USA,0,0,,,,0,,0
+71,1,1,38861,,3,Anna Bedecs,123 1st Street,Seattle,WA,99999,USA,0,0,,,,0,,0
+72,1,28,38875,38875,3,Amritansh Raghav,789 28th Street,Memphis,TN,99999,USA,40,0,Credit Card,38875,,0,,3
+73,7,9,38873,38873,1,Sven Mortensen,123 9th Street,Salt Lake City,UT,99999,USA,100,0,Check,38873,,0,,3
+74,6,6,38876,38876,2,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,300,0,Credit Card,38876,,0,,3
+75,4,8,38873,38873,2,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,50,0,Check,38873,,0,,3
+76,9,25,38873,38873,1,John Rodman,789 25th Street,Chicago,IL,99999,USA,5,0,Cash,38873,,0,,3
+77,9,26,38873,38873,3,Run Liu,789 26th Street,Miami,FL,99999,USA,60,0,Credit Card,38873,,0,,3
+78,1,29,38873,38873,2,Soo Jung Lee,789 29th Street,Denver,CO,99999,USA,200,0,Check,38873,,0,,3
+79,2,6,38891,38891,3,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,0,0,Check,38891,,0,,3
+80,2,4,38832.71105,,,Christina Lee,123 4th Street,New York,NY,99999,USA,0,0,,,,0,,0
+81,2,3,38832.727,,,Thomas Axen,123 3rd Street,Los Angelas,CA,99999,USA,0,0,,,,0,,0

@@ -1,0 +1,4 @@
+orders.csv
+orders
+select count(*) from orders;
+output.csv
